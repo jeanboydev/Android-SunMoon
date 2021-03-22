@@ -1,0 +1,3 @@
+include ':component_sunmoon'
+include ':app'
+rootProject.name = "SunMoon"
